@@ -1,7 +1,7 @@
 # Animal-Feeding-Phase-II
 
 ## Aim:
-
+To develop a animal feeding game-Phase-2 using unity engine with C#.
 ## Algorithm:
 ### Random Animal Stampede
 ### Step 1: In the Hierarchy, create an Empty object called “SpawnManager”
